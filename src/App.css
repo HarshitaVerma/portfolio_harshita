@@ -1,0 +1,12 @@
+.app-container {
+  width: 100%;
+  overflow-x: hidden;
+}
+
+/* Parallax effect for hero */
+.parallax {
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
